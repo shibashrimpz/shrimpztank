@@ -31,7 +31,7 @@
             left: -10%;
             width: 120%;
             height: 120%;
-            background-image: url('https://raw.githubusercontent.com/shibashrimpz/shibashrimpz/main/IMG_9437.jpg?token=GHSAT0AAAAAACPPU53YOHP3ASRLXNPTRCWMZPQ3HVA');
+            background-image: url('https://github.com/shibashrimpz/shrimpztank/blob/main/IMG_9437.jpg?raw=true');
             background-size: cover;
             animation: wobble 5s infinite alternate;
         }
@@ -46,7 +46,7 @@
             position: absolute;
             width: 25px;
             height: 25px;
-            background-image: url('https://raw.githubusercontent.com/shibashrimpz/shibashrimpz/main/pepefeed.png?token=GHSAT0AAAAAACPPU53YZALU26MJEJ3KGOR4ZPQ3HMA');
+            background-image: url('https://github.com/shibashrimpz/shrimpztank/blob/main/pepefeed.png?raw=true');
             background-size: cover;
             transition: opacity 0.5s, transform 0.5s;
         }
@@ -90,7 +90,7 @@
 </head>
 <body>
     <div id="aquarium">
-        <img id="shrimp" src="https://raw.githubusercontent.com/shibashrimpz/shibashrimpz/main/shibashrimpz.png?token=GHSAT0AAAAAACPPU53ZLVOBVHRLH2UQ4CCKZPQ3GUA">
+        <img id="shrimp" src="https://github.com/shibashrimpz/shrimpztank/blob/main/shibashrimpz.png?raw=true">
     </div>
 
     <button id="feedButton">Feed</button>
